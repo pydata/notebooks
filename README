@@ -1,0 +1,6 @@
+* **working_with_stdf_data.ipynb**:
+  Demo on working with STDF data. If you wonder what [STDF](https://secure.wikimedia.org/wikipedia/en/wiki/Standard_Test_Data_Format)
+  data is, than this demo is probably not something for you. The demo is
+  intended as a teaser, giving an introduction on how the python packages
+  [PySTDF](https://github.com/cmars/pystdf) and [pandas](http://pandas.pydata.org/)
+  can be used to read a stdf file and analyze the data.
